@@ -63,10 +63,11 @@ def fibo(n):
         
     return c
 
-cnt = 0
-i = 4
-while (cnt < 12):
-    if(isPrime(fibo(i))):
-        print(i,fibo(i))
-        cnt += 1
-    i += 1
+if __name__ == "__main__":
+    cnt = 0
+    i = 4
+    while (cnt < 12):
+        if(isPrime(fibo(i))):
+            print(i,fibo(i))
+            cnt += 1
+        i += 1
