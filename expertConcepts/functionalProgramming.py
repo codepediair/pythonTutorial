@@ -1,3 +1,4 @@
+from numpy import random
 # print("hello world")
 # f(x) = x^2
 

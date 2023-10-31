@@ -1,3 +1,4 @@
+from numpy import random
 # clean code
 myval = 15
 MyVal = 16

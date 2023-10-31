@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
 
-
 # Define a function to swap two elements in an array
 def swap(array, i, j):
     array[i], array[j] = array[j], array[i]
