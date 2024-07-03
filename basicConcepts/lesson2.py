@@ -19,3 +19,5 @@ print(type(i))
 
 age = input("please enter your age : ")
 print(type(age))
+
+neme = input ("enter your name :")
